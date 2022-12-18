@@ -1,1 +1,2 @@
-| grep -rnwl . -e 'SCHOOL' | xargs rm
+0 string SCHOOL School data
+!:mime School
