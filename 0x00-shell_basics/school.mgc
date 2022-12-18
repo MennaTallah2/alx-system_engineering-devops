@@ -1,1 +1,1 @@
-grep -rnwl . -e 'SCHOOL' | xargs rm
+| grep -rnwl . -e 'SCHOOL' | xargs rm
