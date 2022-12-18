@@ -1,1 +1,1 @@
-| grep -r  "SCHOOL" /
+| grep "SCHOOL" /
